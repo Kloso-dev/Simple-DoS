@@ -21,3 +21,8 @@ How to use:
 Name: (Examplesite.com)
 Speed: (0.001)
 
+__________________________________________
+
+Windows
+
+
