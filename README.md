@@ -13,3 +13,11 @@ __________________________________________
 Simple DoS-
 
 Only use on systems you own
+
+
+
+How to use:
+
+Name: (Examplesite.com)
+Speed: (0.001)
+
