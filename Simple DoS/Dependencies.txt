@@ -1,0 +1,5 @@
+  ---Dependencies---  
+
+- - Ping3 - -   [Pip install ping3]
+- - Python - -
+
